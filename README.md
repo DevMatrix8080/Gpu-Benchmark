@@ -17,9 +17,13 @@ A simple web-based GPU benchmark tool that runs directly in your browser using W
 ## ⚠️ Disclaimer
 
 - This tool provides only a rough estimation of your GPU's capabilities.
-- For more accurate and reliable results, it is recommended to use dedicated GPU benchmarking software such as 3DMark, Cinebench, or other professional tools. 🏆
+- For more accurate and reliable results, it is recommended to use dedicated GPU benchmarking software such as 3DMark, Unigine Heaven, or other professional tools. 🏆
 
 ## 📝 Notes
 
 - The benchmark does not stress the GPU as much as professional tools and does not account for all hardware/software variables.
 - Ideal for quick and informal comparisons between devices.
+
+## ©️ Copyright
+
+This project is released publicly on GitHub. Please respect the copyright and cite the repository if you use or modify the code. For any questions regarding usage or licensing, refer to the repository or contact the author via GitHub.
