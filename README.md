@@ -24,6 +24,10 @@ A simple web-based GPU benchmark tool that runs directly in your browser using W
 - The benchmark does not stress the GPU as much as professional tools and does not account for all hardware/software variables.
 - Ideal for quick and informal comparisons between devices.
 
+## 🤖 Development
+
+This project was developed using both Trae AI and personal programming skills.
+
 ## ©️ Copyright
 
 This project is released publicly on GitHub. Please respect the copyright and cite the repository if you use or modify the code. For any questions regarding usage or licensing, refer to the repository or contact the author via GitHub.
